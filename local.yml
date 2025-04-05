@@ -7,3 +7,4 @@
       - htop
       - tmux
       - avahi-daemon
+      - cups
