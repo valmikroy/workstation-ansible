@@ -1,4 +1,4 @@
-- hosts: localhost
+- hosts: arret
   become: true
   tasks:
   - name: Install htop
