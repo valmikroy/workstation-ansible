@@ -9,3 +9,4 @@
       - avahi-daemon
       - cups
       - neovim
+      - samba
