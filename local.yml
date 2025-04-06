@@ -8,3 +8,4 @@
       - tmux
       - avahi-daemon
       - cups
+      - neovim
